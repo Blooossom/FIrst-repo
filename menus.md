@@ -1,4 +1,4 @@
-# MENU
+# Today MENU
 
 This file is to select today lunch:.
 
@@ -8,7 +8,7 @@ This file is to select today lunch:.
 - Bibimbap
 
 ## BURGER
-- mom's touch
+- Shack Shack
 - Mcdonalds
 - Burger King
 
