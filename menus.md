@@ -1,18 +1,19 @@
 # MENU
 
-This file is to select today dinner.
+This file is to select today lunch:.
 
 ## RICE
-- curry
+- Soup rice
 - fried rice
-- sushi
+- Bibimbap
 
 ## BURGER
 - mom's touch
-- M'cdonalds
+- Mcdonalds
 - Burger King
 
 ## STARBUCKS
 - Americano
 - Espresso
+- Latte
 
