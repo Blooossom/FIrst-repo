@@ -9,6 +9,7 @@ This file is to select today lunch:.
 
 ## BURGER
 - Shack Shack
+- No Brand
 - Mcdonalds
 - Burger King
 
