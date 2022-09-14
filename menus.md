@@ -2,17 +2,17 @@
 
 This file is to select today dinner.
 
-##RICE
+## RICE
 - curry
 - fried rice
 - sushi
 
-##BURGER
+## BURGER
 - mom's touch
 - M'cdonalds
 - Burger King
 
-##STARBUCKS
+## STARBUCKS
 - Americano
 - Espresso
 
